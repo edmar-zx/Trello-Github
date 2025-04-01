@@ -13,13 +13,6 @@ A automação funciona da seguinte maneira:
 - **GITHUB** → Gerenciamento de código e controle de issues.  
 - **TRELLO** → Organização de tarefas em quadros Kanban.  
 - **ZAPIER** → Automação da criação de cards no Trello a partir das issues do GitHub.  
- 
-## COMO FOI FEITA A AUTOMACAO NO ZAPIER  
-1. Criamos um **Zap** no **Zapier**.  
-2. **TRIGGER:** "New Issue in GitHub" → Sempre que uma issue for criada.  
-3. **AÇÃO:** "Create Card in Trello" → Um novo card é adicionado à lista "A Fazer".  
-4. Personalizamos o card com título e descrição da issue.  
-
 ---
 
 ESTA AUTOMACAO FACILITA A GESTÃO DE TAREFAS E MELHORA A PRODUTIVIDADE DA EQUIPE.
